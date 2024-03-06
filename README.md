@@ -20,4 +20,7 @@ Siga o passo-a-passo abaixo:
 Após esses passos, o menu e as referências vão guiar sua instalação.
 
 # Tem alguma dúvida?
-Entre em contato comigo [aqui](https://camilafrigeri.web.app).
+Entre em contato comigo [aqui](https://camilafrigeri.web.app/contatos.html).
+
+# Gostaria de me apoiar?
+Olhe [essa página](https://camilafrigeri.web.app/apoie.html)
