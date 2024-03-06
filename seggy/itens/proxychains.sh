@@ -51,8 +51,11 @@ echo
 echo "${BWhite}A instalação das proxychains padrão usará TOR, prosseguir? (Enter para continuar.)\e[0m"
 read confirm
 echo "${BWhite}Instalando TOR e iniciando o serviço...\e[0m"
+# Instalando
 sudo apt-get install tor
+# Inicializando
 service tor start
+# Verificando atividade
 service tor status
 echo "${BWhite}Gostaria de abrir o arquivo de configuração? (Usa NANO) [Y/N]\e[0m"
 read config
