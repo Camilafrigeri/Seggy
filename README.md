@@ -19,6 +19,8 @@ Siga o passo-a-passo abaixo:
 
 Após esses passos, o menu e as referências vão guiar sua instalação.
 
+P.S: Observe as instruções também presentes no código documentado por comentários.
+
 # Tem alguma dúvida?
 Entre em contato comigo [aqui](https://camilafrigeri.web.app/contatos.html).
 
