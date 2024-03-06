@@ -24,5 +24,8 @@ P.S: Observe as instruções também presentes no código documentado por coment
 # Tem alguma dúvida?
 Entre em contato comigo [aqui](https://camilafrigeri.web.app/contatos.html).
 
+# Quer sugerir um item? Encontrou algum erro?
+Entre na pasta ".github/ISSUE_TEMPLATE", complete e me envie o arquivo
+
 # Gostaria de me apoiar?
 Olhe [essa página](https://camilafrigeri.web.app/apoie.html)
