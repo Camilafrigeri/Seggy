@@ -45,6 +45,7 @@ echo
 echo "${BWhite}Bem vindo(a)! Qual configuração gostaria de aplicar?\e[0m"
 echo "${BRed} [1] Firewall\e[0m"
 echo "${BRed} [2] Proxychains\e[0m"
+echo "${BRed} [3] Gerador de senhas\e[0m" 
 read opt
 if [ $opt = 1 ]; then
 echo "${BWhite}Inicializando o firewall...\e[0m"
@@ -56,6 +57,10 @@ echo "${BWhite}Inicializando proxychains...\e[0m"
 cd itens
 chmod +x *
 sudo ./proxychains.sh
+elif [ $opt = 3 ]; then
+cd itens
+chmod +x *
+sudo bash senhas.sh
 else
 echo "${BWhite}Opção inválida.\e[0m"
 fi
