@@ -9,6 +9,11 @@ inacessível para quem não fala o idioma, além de muitas ferramentas e muitos 
 
 Pensando nisso, o Seggy oferece a segurança, documentação e suporte necessário.
 
+# Ferramentas
+- Firewall Open source IPTables e UFW
+- Configuração de proxychains facilitada
+- Gerador de senhas
+  
 # Como instalar o Seggy?
 Siga o passo-a-passo abaixo:
 
